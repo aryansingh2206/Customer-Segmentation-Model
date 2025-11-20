@@ -1,6 +1,3 @@
-Here’s a rewritten version with **all wording paraphrased while keeping images unchanged**. I kept the tone more professional and less identical to the source.
-
----
 
 # **E-Commerce Sales Insights Dashboard (Power BI)**
 
@@ -24,7 +21,7 @@ To explore or modify this project, ensure **Microsoft Power BI Desktop** is inst
 
 ## Dashboard
 
-![Ecommerce\_Sales\_Insights\_page-0001](https://github.com/Praveendinesha/Sales-Insights-Analysis/assets/142248403/f5a42c27-1638-49cb-9ee0-3521b29bc9c1)
+https://chatgpt.com/backend-api/estuary/content?id=file_00000000335c7206a10531302324f405&ts=489895&p=fs&cid=1&sig=cc8d5019fd3062891854970bfcf0108037d736976607bcc1c004cfc6030f3fa6&v=0
 
 ## Insights Highlighted
 
@@ -57,10 +54,3 @@ This project leverages Power BI to convert raw sales data into actionable insigh
 
 ---
 
-If you'd like, I can also:
-
-* Rewrite this in **resume bullet format**
-* Format it for a **GitHub README**
-* Add a **professional project description for LinkedIn**
-
-Just say what you want!
