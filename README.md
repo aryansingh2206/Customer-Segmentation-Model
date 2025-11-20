@@ -21,7 +21,7 @@ To explore or modify this project, ensure **Microsoft Power BI Desktop** is inst
 
 ## Dashboard
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000335c7206a10531302324f405&ts=489895&p=fs&cid=1&sig=cc8d5019fd3062891854970bfcf0108037d736976607bcc1c004cfc6030f3fa6&v=0
+https://github.com/aryansingh2206/Customer-Segmentation-Model/blob/main/dashboard%20file.png?raw=true
 
 ## Insights Highlighted
 
