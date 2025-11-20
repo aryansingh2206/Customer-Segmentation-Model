@@ -21,7 +21,7 @@ To explore or modify this project, ensure **Microsoft Power BI Desktop** is inst
 
 ## Dashboard
 
-https://github.com/aryansingh2206/Customer-Segmentation-Model/blob/main/dashboard%20file.png?raw=true
+![Customer Segmentation Dashboard](https://github.com/aryansingh2206/Customer-Segmentation-Model/blob/main/dashboard%20file.png?raw=true)
 
 ## Insights Highlighted
 
